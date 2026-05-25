@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+.DS_Store
+.vscode/
+.idea/
+runs/
+logs/
+wandb/
+checkpoints/

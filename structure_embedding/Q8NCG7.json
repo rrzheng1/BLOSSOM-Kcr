@@ -1,0 +1,34 @@
+{
+  "chains": [
+    "A"
+  ],
+  "feature_layout": {
+    "R_aa": [
+      34,
+      77
+    ],
+    "R_atom": [
+      77,
+      112
+    ],
+    "R_pro": [
+      0,
+      34
+    ],
+    "atom_node_dim": 26,
+    "edge_dim": 9,
+    "residue_node_dim": 34
+  },
+  "length": 672,
+  "neighbor_parameters": {
+    "d_l": 5,
+    "d_rad_angstrom": 10.0,
+    "d_seq": 3,
+    "knn_k": 10
+  },
+  "protein": "Q8NCG7",
+  "shape": [
+    672,
+    112
+  ]
+}
